@@ -1,0 +1,14 @@
+﻿body {
+    background-color: whitesmoke;
+}
+
+html {
+    font-family: Calibri,Arial,sans-serif;
+    height: 100%;
+}
+
+.personal {
+    position: center;
+    padding-top: 2em;
+    overflow: auto;
+}
