@@ -7,8 +7,11 @@ html {
     height: 100%;
 }
 
+
 .personal {
+    max-width: 100%;
+    height: auto;
     position: center;
     padding-top: 2em;
-    overflow: auto;
 }
+
