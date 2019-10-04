@@ -69,8 +69,6 @@
   <ItemGroup>
     <Content Include="Images\asdasdasd.jpg" />
     <Content Include="index.html" />
-    <Content Include="contact.html" />
-    <Content Include="comment.html" />
     <Content Include="nav.css" />
     <Content Include="site.css" />
     <Content Include="StyleSheet1.css" />

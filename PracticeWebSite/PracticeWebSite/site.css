@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: whitesmoke;
+    
 }
 
 html {
@@ -8,10 +8,19 @@ html {
 }
 
 
+
+
 .personal {
     max-width: 100%;
     height: auto;
     position: center;
     padding-top: 2em;
+}
+
+.center {
+    display:block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
