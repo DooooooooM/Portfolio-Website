@@ -1,26 +1,25 @@
 ﻿body {
-    
 }
 
 html {
-    font-family: Calibri,Arial,sans-serif;
+    font-family: sans-serif,Calibri,Arial;
     height: 100%;
 }
 
-
-
+.main-h {
+    font-size: 64px;
+}
 
 .personal {
     max-width: 100%;
     height: auto;
     position: center;
-    padding-top: 2em;
+    padding-top: 1em;
 }
 
 .center {
-    display:block;
+    display: block;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
-

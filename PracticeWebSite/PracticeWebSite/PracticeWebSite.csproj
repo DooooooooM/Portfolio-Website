@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\asdasdasd.jpg" />
+    <Content Include="Images\light_bright_blue-removebg-preview.png" />
     <Content Include="index.html" />
     <Content Include="nav.css" />
     <Content Include="site.css" />
