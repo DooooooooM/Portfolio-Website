@@ -1,2 +1,5 @@
-# First-Website
-Practice Website 21th of September
+# First Website
+Practice Website: 
+Start date 21th of September
+
+Website purpose: Personal Portfolio
