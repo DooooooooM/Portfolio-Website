@@ -68,7 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\asdasdasd.jpg" />
+    <Content Include="Images\Gray_Background.png" />
     <Content Include="Images\light_bright_blue-removebg-preview.png" />
+    <Content Include="Images\Personal_Photo.png" />
     <Content Include="index.html" />
     <Content Include="nav.css" />
     <Content Include="site.css" />
