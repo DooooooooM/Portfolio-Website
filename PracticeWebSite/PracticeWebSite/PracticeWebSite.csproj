@@ -67,16 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\asdasdasd.jpg" />
     <Content Include="Images\project1.png" />
-    <Content Include="Images\Gray_Background.png" />
     <Content Include="Images\project2.png" />
-    <Content Include="Images\Personal_Photo.png" />
+    <Content Include="Images\soon.png" />
     <Content Include="Images\white_bg.jpg" />
     <Content Include="index.html" />
     <Content Include="nav.css" />
     <Content Include="site.css" />
-    <Content Include="StyleSheet1.css" />
+    <Content Include="thumbnails.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

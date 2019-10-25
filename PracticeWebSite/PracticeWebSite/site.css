@@ -10,6 +10,11 @@ html {
 .main-h {
     font-size: 64px;
 }
+.header-layout {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center
+}
 
 .personal {
     max-width: 100%;
@@ -18,12 +23,6 @@ html {
     padding-top: 1em;
 }
 
-.thumbnail {
-    width: 100%;
-    height: 100%;
-    max-width: 400px;
-    max-height: 400px;
-}
 .center {
     display: block;
     justify-content: center;
@@ -34,6 +33,7 @@ html {
 h1 {
     font-size: 36px
 }
+
 h2 {
     font-size: 30px
 }
